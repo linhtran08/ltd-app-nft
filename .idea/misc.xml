@@ -3,4 +3,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="FLOW" />
+  </component>
 </project>
